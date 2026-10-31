@@ -9,3 +9,6 @@
 /.github export-ignore
 CHANGELOG.md export-ignore
 .styleci.yml export-ignore
+*.blade.php linguist-vendored
+resources/views/** linguist-vendored
+public/** linguist-vendored
